@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Romil-Github
+- 👀 I’m interested in doing interesting project with coding because I don't like coding just for money and fame I just want to do it for fun.
+- 🌱 I’m currently learning HTML, CSS, Arduino.
+- 💞️ I have learned Java, C++, Python, Swift.
